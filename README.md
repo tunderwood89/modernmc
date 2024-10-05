@@ -1,2 +1,2 @@
-# modernmc
+# ModernMC
 My personal battlestation for Minecraft.
